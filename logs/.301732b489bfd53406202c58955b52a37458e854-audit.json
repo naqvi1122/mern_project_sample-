@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\express node\\chat application socket io\\backend chat\\logs\\.301732b489bfd53406202c58955b52a37458e854-audit.json",
+    "files": [
+        {
+            "date": 1694325818457,
+            "name": "D:\\express node\\chat application socket io\\backend chat\\logs\\app-error-2023-09-10.log",
+            "hash": "139e444819ace02a9332a40e3777a8f10c8e63493ecbd0f38f5a40fc9230aeb3"
+        }
+    ],
+    "hashType": "sha256"
+}
